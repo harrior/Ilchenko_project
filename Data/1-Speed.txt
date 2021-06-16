@@ -1,0 +1,12 @@
+Блок 1
+Selection Duration	0,021	s
+Selection Duration	0,123	s
+Блок 2
+Selection Duration	0,029	s
+Selection Duration	0,321	s
+Блок 3
+Selection Duration	0,028	s
+Selection Duration	0,258	s
+Блок 4
+Selection Duration	0,030	s
+Selection Duration	0,645	s
